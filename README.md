@@ -20,7 +20,7 @@ User → S3 Upload Bucket → Lambda →
 • S3 Processed Bucket (store result file)
 • SNS (email notifications)
 <p align="center">
-  <img src="architecture.png" width="600">
+  <img src="architecture.png" width="500">
 </p>
 
 Processed bucket delete events → SNS alert
