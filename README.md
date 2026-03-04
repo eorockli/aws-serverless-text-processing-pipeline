@@ -21,7 +21,6 @@ User → S3 Upload Bucket → Lambda →
 • SNS (email notifications)
 
 Processed bucket delete events → SNS alert
-!architecture.png
 
 ## AWS Services Used
 
