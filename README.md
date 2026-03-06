@@ -74,7 +74,6 @@ The architecture follows cloud-native design principles including:
 - **lambda/** – Lambda processing function
 - **policies/** – SQS and SNS access policies
 - **setup/** – step-by-step deployment guide
-- 
 ---
 
 ## Design Considerations
