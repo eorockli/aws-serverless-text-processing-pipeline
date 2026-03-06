@@ -50,7 +50,6 @@ The architecture follows cloud-native design principles including:
 - Amazon SNS
 - Amazon CloudWatch Logs
 
-Region: **eu-north-1 (Stockholm)**
 
 ---
 
