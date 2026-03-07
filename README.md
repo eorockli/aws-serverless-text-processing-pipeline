@@ -98,3 +98,10 @@ The architecture follows cloud-native design principles including:
 ## Author
 
 Built as a hands-on cloud engineering project to demonstrate practical serverless architecture skills.
+
+---
+
+## Cost
+
+All services used are eligible for the [AWS Free Tier](https://aws.amazon.com/free/).  However, charges will incur at some point so it's recommended that you shut down resources after completing this tutorial.
+
