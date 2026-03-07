@@ -103,5 +103,5 @@ Built as a hands-on cloud engineering project to demonstrate practical serverles
 
 ## Cost
 
-All services used are eligible for the [AWS Free Tier](https://aws.amazon.com/free/).  However, charges will incur at some point so it's recommended that you shut down resources after completing this tutorial.
+All services used are eligible for the [AWS Free Tier](https://aws.amazon.com/free/).  However, charges will incur at some point so it's recommended that you shut down resources after completing the pipeline.
 
