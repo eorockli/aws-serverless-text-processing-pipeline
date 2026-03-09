@@ -50,3 +50,6 @@ aws sqs send-message \
   --message-body '{"invalid": "message"}' \
   --region eu-west-1
 
+### checking then number of Queues we have 
+aws sqs list-queues \
+  --region eu-west-1
