@@ -42,3 +42,11 @@ aws s3 cp test.txt s3://eyong-file-upload-bucket/ --region eu-west-1
 aws sqs list-queues \
   --region eu-west-1
 
+
+### Testing the DLQ 
+# Send a malformed message that will cause Lambda to fail
+aws sqs send-message \
+  --queue-url https://sqs.eu-west-1.amazonaws.com/578761488692/text-processing-queue \
+  --message-body '{"invalid": "message"}' \
+  --region eu-west-1
+
